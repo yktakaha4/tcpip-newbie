@@ -10,3 +10,5 @@ https://github.com/momijiame/linux-tcpip-book/
     - https://blog.amedama.jp/entry/201703/29/080000
 - Thundering hard problems
     - https://uwsgi-docs.readthedocs.io/en/latest/articles/SerializingAccept.html
+- TCP Half open
+    - https://qiita.com/keikmobile/items/5f2f427baf9121ccf40f
